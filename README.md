@@ -15,4 +15,4 @@ ja.wordpress.org の公式キャラクター「わぷー（Wapuu）」の著作�
 ***
 ####Contributors
 
-Rie Seguchi, Kojiro Fukazawa, Muga Komagata, Chiharu Nagatomi, Naoko Tokumoto, nipper-onside
+Rie Seguchi, Kojiro Fukazawa, Muga Komagata, Chiharu Nagatomi, Naoko Tokumoto, nipper-onside, Ayaka Sumida, Takenori Okashita (GOUTEN), Kite
