@@ -8,9 +8,14 @@ Takoyaki Wapuu
 たこやきわぷーはja.wordpress.org の公式キャラクター「わぷー（Wapuu）」の二次著作物です。
 ja.wordpress.org の公式キャラクター「わぷー（Wapuu）」の著作権は[カネウチカズコさん](http://blog.cgfm.jp/mutsuki/)に属します。
 
-[わぷー（Wapuu）](http://ja.wordpress.org/about-wp-ja/wapuu/)
+[本家わぷー（Wapuu）](http://ja.wordpress.org/about-wp-ja/wapuu/)
+[本家わぷー（Wapuu）　svgファイル](https://github.com/jawordpressorg/wapuu)
 
-[わぷー（Wapuu）　svgファイル](https://github.com/jawordpressorg/wapuu)
+## ファイル種類
+
+* wapuu_osaka_takoyaki.pdf　　編集用ファイル（変更を加えたい場合はこちらから）
+* wapuu_osaka_takoyaki.png　　ビットマップ画像としてWebページなどで使用する場合
+* wapuu_osaka_takoyaki.svg　　ベクターデータとしてWebページなどで使用する場合
 
 ## Contributors
 
